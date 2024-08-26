@@ -22,6 +22,8 @@ This course provides an introduction to the human-centered and technical working
 
 ## Schedule
 
+Note: The schedule may change to accommodate student needs.
+
 {: .overview .table .table-striped :}
 ||Class| Assignment Due |
 |--|--|--|
