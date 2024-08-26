@@ -1,5 +1,5 @@
 ---
-layout: layout_2020
+layout: layout_2024
 ---
 
 # Design for Physical Interaction
