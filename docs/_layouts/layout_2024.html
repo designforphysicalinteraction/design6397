@@ -1,0 +1,85 @@
+---
+title: Design for Physical Interaction
+enrollform: https://forms.gle/kz9RqRjpdYZNvp4T9
+<!-- peerassessform: https://forms.gle/iyvsEk9a6FAX6iJu9
+applyenrollform: https://forms.gle/oY9yfrQJCw2k9zo66
+canvasfiles: https://canvas.colorado.edu/courses/67304-->
+---
+
+<html>
+   <head>
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+    <meta content="utf-8" http-equiv="encoding">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ layout.title }}</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="{{ "/files/css/bootstrap.min.css" | relative_url }}" />
+    <link rel="stylesheet" type="text/css" href="{{ "/files/css/style_2020.css" | relative_url }}" />
+		<script
+			src="https://code.jquery.com/jquery-1.12.4.min.js"
+			integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="
+			crossorigin="anonymous"></script>
+    <script src="{{ "/files/js/bootstrap.min.js" | relative_url }}"></script>
+  </head>
+<body>
+
+<body data-spy="scroll" data-target="#myScrollspy" data-offset="10">
+  <!-- Fixed navbar -->
+  <nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="/index.html">{{ layout.title }}</a>
+      </div>
+      <div id="navbar" class="navbar-collapse collapse">
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href="/pages/syllabus.html">Syllabus</a></li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown"
+							 role="button" aria-haspopup="true" aria-expanded="false">
+							Projects <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="/pages/a1.html">P1: Hack the Remote</a></li>
+              <li><a href="/pages/a2.html">P2: Protocol</a></li>
+            </ul>
+          </li>
+          <!-- <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown"
+							 role="button" aria-haspopup="true" aria-expanded="false">
+							Demos <span class="caret"></span></a>
+
+            <ul class="dropdown-menu">
+              <li><a href="">
+									9/3: Ideation</a></li>
+              <li><a href="">
+									9/10: Drawing in P5</a></li>
+              <li><a href="">
+									9/17: Networking</a></li>
+            </ul>
+          </li>-->
+
+          <li><a href="/pages/resources.html">Resources</a></li>
+        </ul>
+      </div><!--/.nav-collapse -->
+    </div>
+  </nav>
+
+    <div class="container">
+
+			{{ content }}
+
+		</div>
+
+		<footer class="page-footer font-small">
+			<div class="footer-copyright text-center py-3">
+				 <a href="https://designtech.cornell.edu">Cornell University Dept. of Design Technology</a><br>
+				with thanks to <a href="http://agneschang.net/">Agnes Chang</a>.
+			</div>
+		</footer>
+
+</body>
