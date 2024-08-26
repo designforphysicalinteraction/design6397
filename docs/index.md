@@ -18,7 +18,7 @@ Tuesday lab, 8:30-11am (Sibley B10)
 
 ## Overview
 
-This course provides an introduction to the human-centered and technical workings behind interactive devices. In a studio environment, students develop low and high-fidelity interactive prototypes that can be deployed and experienced by real users. Lectures cover the history and principles of human-computer interaction, behavior prototyping, physical and graphical user interfaces, machine intelligence, neural networks, and large language models. Provides a foundation in technical skills, such as physical prototyping, coding, and electronics, as well as how to collect data, train and deploy your own neural network models. 
+This course provides an introduction to the human-centered and technical workings behind interactive devices. In a studio environment, students develop low and high-fidelity interactive prototypes that can be deployed and experienced by real users. Lectures cover the history and principles of human-computer interaction, behavior prototyping, physical and graphical user interfaces, machine intelligence, neural networks, and large language models. Provides a foundation in technical skills, such as physical prototyping, coding, and electronics.
 
 ## Schedule
 
@@ -47,16 +47,16 @@ Note: The schedule may change to accommodate student needs.
 | 10/22 | **Review of LLM exploration** | |
 | 10/28 | **Artificial Intelligence in Art and Design** | |
 | 10/29 | **Group Review of Concepts** | |
-| 11/04 | **** | |
-| 11/05 | **** | |
-| 11/11 | **** | |
-| 11/12 | **** | |
-| 11/18 | **** | |
-| 11/19 | **** | |
-| 11/25 | **** | |
-| 11/26 | **** | |
-| 12/02 | **** | |
-| 12/03 | **** | |
-| 12/09 | **** | |
-| 12/10 | **** | |
-| TBD | **** | |
+| 11/04 | **Coding for LLMs** | |
+| 11/05 | **Review Software Prototypes** | |
+| 11/11 | **Enclosure Design** | |
+| 11/12 | **Review Electronic Prototypes** | |
+| 11/18 | **Motion and Behavior Lecture** | |
+| 11/19 | **Motion and Behavior Lab 1** | |
+| 11/25 | **Motion and Behavior Critique** | |
+| 11/26 | **Motion and Behavior Lab 2** | |
+| 12/02 | **Work Session** | |
+| 12/03 | **Work Session** | |
+| 12/09 | **Documentation and Publishing** | |
+| 12/10 | **Review draft of slides and documentation** | |
+| TBD | **Final Review** | |
