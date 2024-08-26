@@ -5,7 +5,7 @@ _Instructors:_ Professor Daniel Leithinger, [office hours by appt.](https://cale
 
 _Class Time:_ Monday  <br>
 <br>
-[Class Discord]() <br>
+//[Class Discord]() <br>
 
 ## Overview
 
