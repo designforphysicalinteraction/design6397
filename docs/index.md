@@ -30,7 +30,7 @@ Note: The schedule may change to accommodate student needs.
 | 08/26 | **[Introduction to the Course](https://docs.google.com/presentation/d/1ZTG53sUKXACfSIj7Zp71ydn2wSpk5urqkSMYfDW2lRY/pub?start=false&loop=false&delayms=60000)** | Complete [Course Signup Form](https://forms.gle/VwFWdcDoEJ7FAkKF8) |
 | 08/27 | **Introduction to Project 1, Coding for Interaction** | Create Account on [Github](https://www.github.com), Install [Github Desktop](https://desktop.github.com/download/), [Visual Studio Code](https://code.visualstudio.com/), [Live Server Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) |
 | 09/02 | **Labor Day, No Course** | |
-| 09/03 | **Group Review Concept + Software Prototypes** | |
+| 09/03 | **Group Review Concept + Software Prototypes** | Add Project Idea to [Shared Slide Deck](https://docs.google.com/presentation/d/1nPA-pEm2d8oMHKwnvGtVtrBMm9XHkcXSTPuNbsq3EDE/edit?usp=sharing) |
 | 09/09 | **Introduction to Arduino and Electronics** | |
 | 09/10 | **Electronics Tutorial, Work Session** | |
 | 09/16 | **Human-Computer Interaction** | |
