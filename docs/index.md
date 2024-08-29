@@ -14,7 +14,12 @@ _Class Time:_ <br>
 Monday lecture, 10:10-11:25am (Milstein Auditorium)<br>
 Tuesday lab, 8:30-11am (Sibley B10)
 <br>
-[Class Discord]() <br>
+
+_Office Hours:_ <br>
+Monday lecture, 10:10-11:25am (Milstein Auditorium)<br>
+Tuesday lab, 8:30-11am (Sibley B10)
+<br>
+[Class Discord](https://discord.gg/yZVBfZSmGj) <br>
 
 ## Overview
 
