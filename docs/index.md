@@ -5,19 +5,23 @@ layout: layout_2024
 # Design for Physical Interaction
 
 <br>
-_Instructors:_
-Professor Marcelo Coelho <br>
-Professor Daniel Leithinger <br>
-Professor Guy Hoffman <br>
-
-_Class Time:_ <br>
+_Class Time:_<br>
 Monday lecture, 10:10-11:25am (Milstein Auditorium)<br>
 Tuesday lab, 8:30-11am (Sibley B10)
 <br>
 
-_Office Hours:_ <br>
-Monday lecture, 10:10-11:25am (Milstein Auditorium)<br>
-Tuesday lab, 8:30-11am (Sibley B10)
+_Instructors:_<br>
+Professor Marcelo Coelho (email@cmarcelo.com) <br>
+Professor Daniel Leithinger (dl2265@cornell.edu) <br>
+Professor Guy Hoffman (hoffman@cornell.edu) <br>
+_Office Hours:_
+Monday: 11:25am-12:25pm in 225 West Sibley
+
+<br>
+_Teaching Assistant:_
+Lauren Greene (llg59@cornell.edu) 
+Office Hours: 9:45-11:45 am at my desk (Design Tech - 3rd floor Sibley)
+
 <br>
 [Class Discord](https://discord.gg/yZVBfZSmGj) <br>
 
