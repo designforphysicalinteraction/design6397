@@ -11,16 +11,14 @@ Tuesday lab, 8:30-11am (Sibley B10)
 <br>
 
 _Instructors:_<br>
-Professor Marcelo Coelho (email@cmarcelo.com) <br>
-Professor Daniel Leithinger (dl2265@cornell.edu) <br>
-Professor Guy Hoffman (hoffman@cornell.edu) <br>
-_Office Hours:_
-Monday: 11:25am-12:25pm in 225 West Sibley
-
+Marcelo Coelho (email@cmarcelo.com) <br>
+Daniel Leithinger (dl2265@cornell.edu) <br>
+Guy Hoffman (hoffman@cornell.edu) <br>
+_Office Hours:_ Mondays 11:25am-12:25pm in 225 West Sibley
 <br>
 _Teaching Assistant:_
 Lauren Greene (llg59@cornell.edu) 
-Office Hours: 9:45-11:45 am at my desk (Design Tech - 3rd floor Sibley)
+Office Hours: Thursdays 9:45-11:45 am at my desk (Design Tech - 3rd floor Sibley)
 
 <br>
 [Class Discord](https://discord.gg/yZVBfZSmGj) <br>
@@ -40,7 +38,7 @@ Note: The schedule may change to accommodate student needs.
 | 08/27 | **Introduction to Project 1, Coding for Interaction** | Create Account on [Github](https://www.github.com), Install [Github Desktop](https://desktop.github.com/download/), [Visual Studio Code](https://code.visualstudio.com/), [Live Server Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) |
 | 09/02 | **Labor Day, No Course** | |
 | 09/03 | **Group Review Concept + Software Prototypes** | Add Project Idea to [Shared Slide Deck](https://docs.google.com/presentation/d/1nPA-pEm2d8oMHKwnvGtVtrBMm9XHkcXSTPuNbsq3EDE/edit?usp=sharing) |
-| 09/09 | **Introduction to Arduino and Electronics** | |
+| 09/09 | **Introduction to Arduino and Electronics** | Download and Install [Arduino IDE](https://www.arduino.cc)|
 | 09/10 | **Electronics Tutorial, Work Session** | |
 | 09/16 | **Human-Computer Interaction** | |
 | 09/17 | **Physical Prototyping/Fabrication** | |
