@@ -41,7 +41,7 @@ Note: The schedule may change to accommodate student needs.
 | 09/09 | **[Introduction to Arduino](https://docs.google.com/presentation/d/1-upq__piHs2nBALpfcCTWOotfzjlqjRjmOKbiOG6b6w/edit?usp=sharing)** | Download and Install [Arduino IDE](https://www.arduino.cc)|
 | 09/10 | **Arduino and Electronics Tutorial** |  |
 | 09/16 | **[Sensors](https://docs.google.com/presentation/d/1-upq__piHs2nBALpfcCTWOotfzjlqjRjmOKbiOG6b6w/edit?usp=sharing)** | |
-| 09/17 | **Project Review** | |
+| 09/17 | **Project Review** | Upload your code on Github, First Hardware Prototype |
 | 09/23 | **Human-Computer Interaction** | |
 | 09/24 | **Review or Physical Prototypes + Play Testing** | |
 | 09/30 | **Documentation How-To, Presentation Template** | |
