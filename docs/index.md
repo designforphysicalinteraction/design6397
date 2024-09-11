@@ -39,7 +39,7 @@ Note: The schedule may change to accommodate student needs.
 | 09/02 | **Labor Day, No Course** | |
 | 09/03 | **Group Review Concept + Software Prototypes** | Add Project Idea to [Shared Slide Deck](https://docs.google.com/presentation/d/1nPA-pEm2d8oMHKwnvGtVtrBMm9XHkcXSTPuNbsq3EDE/edit?usp=sharing) |
 | 09/09 | **[Introduction to Arduino](https://docs.google.com/presentation/d/1-upq__piHs2nBALpfcCTWOotfzjlqjRjmOKbiOG6b6w/edit?usp=sharing)** | Download and Install [Arduino IDE](https://www.arduino.cc)|
-| 09/10 | **Arduino and Electronics Tutorial** |  |
+| 09/10 | **Arduino and Electronics Tutorial** | Finalize your teams and project idea. Be prepared to demonstrate a software prototype. Brainstorm what input you want to sense. |
 | 09/16 | **[Sensor Lecture](https://docs.google.com/presentation/d/1-upq__piHs2nBALpfcCTWOotfzjlqjRjmOKbiOG6b6w/edit?usp=sharing)** | |
 | 09/17 | **Review of Software Prototypes, Sensor Discussion** | Upload your code on Github, have it working on your laptop with a simple Arduino Hardware Input (minimum of 2 buttons) |
 | 09/23 | **Human-Computer Interaction** | |
