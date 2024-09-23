@@ -42,8 +42,8 @@ Note: The schedule may change to accommodate student needs.
 | 09/10 | **Arduino and Electronics Tutorial** | Finalize your teams and project idea. Be prepared to demonstrate a software prototype. Brainstorm what input you want to sense. |
 | 09/16 | **[Sensor Lecture](https://docs.google.com/presentation/d/1-upq__piHs2nBALpfcCTWOotfzjlqjRjmOKbiOG6b6w/edit?usp=sharing)** | |
 | 09/17 | **Review of Software Prototypes, Sensor Discussion** | Upload your code on Github, have it working on your laptop with a simple Arduino Hardware Input (minimum of 2 buttons) |
-| 09/23 | **Human-Computer Interaction** | |
-| 09/24 | **Review or Physical Prototypes + Play Testing** | |
+| 09/23 | **[Human-Computer Interaction Lecture](https://docs.google.com/presentation/d/11n7V-bVd3RkNYw781vqa4dWFluEc7v2fOz9V6s4piAo/edit?usp=sharing)** | |
+| 09/24 | **Review or Physical Prototypes + Play Testing** | Bring your first working hardware prototype |
 | 09/30 | **Documentation How-To, Presentation Template** | |
 | 10/01 | **Work Session, Hands-On Documentation Session** | |
 | 10/07 | **Project 1 Critique Dry Run** | |
