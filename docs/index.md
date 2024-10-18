@@ -66,4 +66,4 @@ Note: The schedule may change to accommodate student needs.
 | 12/03 | **Work Session** | |
 | 12/09 | **Documentation and Publishing** | |
 | 12/10 | **Review draft of slides and documentation** | |
-| TBD | **Final Review** | |
+| 12/17 | **Final Review** | |
