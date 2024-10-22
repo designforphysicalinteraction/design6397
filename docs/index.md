@@ -51,7 +51,7 @@ Note: The schedule may change to accommodate student needs.
 | 10/14 | **Fall Break, No Class** | |
 | 10/15 | **Fall Break, No Class** | |
 | 10/21 | **Introduction Project 2, Introduction to Large Language Models** | |
-| 10/22 | **Review of LLM exploration** | [Project 2 Introduction](https://github.com/designforphysicalinteraction/design6397project2) |
+| 10/22 | **Review of LLM exploration** | [Clone Project 2 Github Repository](https://github.com/designforphysicalinteraction/design6397project2) |
 | 10/28 | **Artificial Intelligence in Art and Design** | |
 | 10/29 | **Group Review of Concepts** | |
 | 11/04 | **Coding for LLMs** | |
