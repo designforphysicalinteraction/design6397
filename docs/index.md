@@ -47,17 +47,17 @@ Note: The schedule may change to accommodate student needs.
 | 09/30 | **Documentation How-To, Presentation Template** | |
 | 10/01 | **Work Session, Hands-On Documentation Session** | |
 | 10/07 | **Project 1 Critique Dry Run** | |
-| 10/08 | **Final Critique Project 1 + Deliverables Due** | |
+| 10/08 | **Final Critique Project 1 + Deliverables Due** | Add your final presentation to the shared drive folder, bring physical prototype |
 | 10/14 | **Fall Break, No Class** | |
 | 10/15 | **Fall Break, No Class** | |
 | 10/21 | **Introduction Project 2, Introduction to Large Language Models** | |
 | 10/22 | **Review of LLM exploration** | [Clone Project 2 Github Repository](https://github.com/designforphysicalinteraction/design6397project2) |
 | 10/28 | **Artificial Intelligence in Art and Design** | |
-| 10/29 | **Group Review of Concepts** | |
-| 11/04 | **Coding for LLMs** | |
-| 11/05 | **Review Software Prototypes** | |
-| 11/11 | **Enclosure Design** | |
-| 11/12 | **Review Electronic Prototypes** | |
+| 10/29 | **Group Review of Concepts** | Prepare Slide with project ideas and add to the [shared deck](https://docs.google.com/presentation/d/1NgJR4g0-PBYxzBrUX1ag-ViiouBg2ZgDeoXsVgz8iQE/edit#slide=id.g2c55869a8cc_1_4) |
+| 11/04 | **Coding for LLMs** | Complete Assignment: Have project 2 code working on your laptop with Arduino |
+| 11/05 | **Review Software Prototypes** | Demo software prototypes and your examples of prompts |
+| 11/11 | **Review of Cardboard Prototypes and Circuit** | Bring your cardboard prototype |
+| 11/12 | **Lecture on Motors and Electronics** | |
 | 11/18 | **Motion and Behavior Lecture** | |
 | 11/19 | **Motion and Behavior Lab 1** | |
 | 11/25 | **Motion and Behavior Critique** | |
